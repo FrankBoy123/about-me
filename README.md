@@ -19,11 +19,6 @@ Here are a few technologies and tools I love working with:
 - **Frameworks**: React
 - **Tools**: VS Code
 
-## 📂 Projects
-
-- **[Project Name](Link to Project)**: [Brief description of the project]
-- **[Another Project Name](Link to Project)**: [Brief description of the project]
-
 Feel free to check out my [repositories](https://github.com/FrankBoy123/Frankies-test.git) for more!
 
 ## 🤝 Let's Connect
