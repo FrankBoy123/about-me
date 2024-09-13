@@ -1,9 +1,3 @@
-# Frankies-test
-Hello Eve 
-Certainly! Crafting a compelling README for your GitHub profile can make a great impression and give visitors a quick overview of who you are and what you do. Here's a template you can customize to fit your profile:
-
----
-
 # Hi there, I'm Frank 👋
 
 Welcome to my GitHub profile! I'm a growing  programmer passionate about what there is in programming. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
